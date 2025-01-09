@@ -1,4 +1,4 @@
-# Configuration of Annex Engeneering Gasherbrum K3.
+## Configuration of Annex Engeneering Gasherbrum K3.
 
 В данном репозитории находится мой актуальный конфиг от 3D принетра Annex Engeneering Gasherbrum K3.
 
